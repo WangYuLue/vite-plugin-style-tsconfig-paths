@@ -1,4 +1,4 @@
-import { defineConfig, normalizePath } from 'vite'
+import { normalizePath } from 'vite'
 import { isCSSRequest } from 'vite'
 import { parse } from 'tsconfck'
 import { get, entries, forEach } from 'lodash'
