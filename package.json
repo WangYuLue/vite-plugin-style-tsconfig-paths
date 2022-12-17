@@ -8,7 +8,14 @@
   "keywords": [
     "vite",
     "vite-plugin",
-    "copy"
+    "css",
+    "scss",
+    "less",
+    "stylus",
+    "typescript",
+    "tsconfig",
+    "paths",
+    "alias"
   ],
   "repository": {
     "type": "git",
